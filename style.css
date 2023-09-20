@@ -1,0 +1,42 @@
+.flex {
+    display: flex;
+
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.padding-left {
+    padding-left: 1rem;
+}
+
+.padding-right {
+    padding-right: 1rem;
+}
+
+.profile {
+    height: 240px;
+    width: 250px;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(80, 156, 156);
+}
+
+body {
+    margin: auto;
+    background-color: rgb(66, 65, 65);
+}
+
+ul {
+    margin: auto;
+    padding: 20px;
+    text-align: right;
+}
+
+li {
+    display: inline;
+    padding-right: 1rem;
+}
